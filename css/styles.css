@@ -1,0 +1,127 @@
+body {
+    color: #181823;
+    font-family: "Roboto Slab", serif;
+    font-size: 0.8rem;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #537FE7;
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #537FE7;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #537FE7;
+    font-family: "Montserrat", sans-serif;
+}
+
+a {
+    color: #11999E;
+}
+
+hr {
+    border: 10px;
+    border-top-style: dotted;
+    border-bottom-style: none ;
+    color: #C0EEF2;
+    width: 100px;
+}
+
+.top-container {
+    background-color: #181823;
+    padding: 50px 0;
+    position: relative;
+}
+
+.middle-container {
+    background-color: #E9F8F9;
+    padding-top: 100px;
+}   
+    
+
+.bottom-container {
+    background-color: #181823;
+    padding: 50px 0 20px;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.skill-image-left {
+    float: left;
+    margin-right: 30px;
+    width: 15%;
+}
+
+.skill-image-right {
+    float: right;
+    margin-left: 30px;
+    width: 15%;
+}
+
+.btn {
+    background: #C0EEF2;
+    background-image: -webkit-linear-gradient(top, #C0EEF2, #537FE7);
+    background-image: -moz-linear-gradient(top, #C0EEF2, #537FE7);
+    background-image: -ms-linear-gradient(top, #C0EEF2, #537FE7);
+    background-image: -o-linear-gradient(top, #C0EEF2, #537FE7);
+    background-image: linear-gradient(to bottom, #C0EEF2, #537FE7);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat";
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #537FE7;
+    background-image: -webkit-linear-gradient(top, #537FE7, #C0EEF2);
+    background-image: -moz-linear-gradient(top, #537FE7, #C0EEF2);
+    background-image: -ms-linear-gradient(top, #537FE7, #C0EEF2);
+    background-image: -o-linear-gradient(top, #537FE7, #C0EEF2);
+    background-image: linear-gradient(to bottom, #537FE7, #C0EEF2);
+    text-decoration: none;
+  }
+
+.contact-me {
+    line-height: 2;
+    margin: 100px 0;
+}
+
+.skills {
+    margin-top: 100px;
+}
+
+.profile {
+    margin-bottom: 100px;
+}
+
+.footer-link-image {
+    width: 2%;
+    margin: 0 5px;
+}
+
+.copyright {
+    color: #537FE7;
+}
+
+.profile-image {
+    border-radius: 100px;
+}
